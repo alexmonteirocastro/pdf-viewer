@@ -1,0 +1,1 @@
+// alert('Polsko nemuze do vesmiru :(')
